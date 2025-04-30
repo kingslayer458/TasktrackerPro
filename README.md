@@ -5,8 +5,12 @@
 A modern, feature-rich full-stack application for efficient project and task management with a beautiful UI and smooth animations. TaskMaster Pro helps teams and individuals organize their work with an intuitive, responsive interface.
 
 ![TaskMaster Pro Screenshot](task1.png)
+![TaskMaster Pro Screenshot](task7.png)
 ![TaskMaster Pro Screenshot](task2.png)
 ![TaskMaster Pro Screenshot](task3.png)
+![TaskMaster Pro Screenshot](task4.png)
+![TaskMaster Pro Screenshot](task5.png)
+![TaskMaster Pro Screenshot](task6.png)
 
 ## ✨ Features
 
