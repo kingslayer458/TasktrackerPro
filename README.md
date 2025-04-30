@@ -4,7 +4,9 @@
 
 A modern, feature-rich full-stack application for efficient project and task management with a beautiful UI and smooth animations. TaskMaster Pro helps teams and individuals organize their work with an intuitive, responsive interface.
 
-![TaskMaster Pro Screenshot](https://via.placeholder.com/800x400?text=TaskMaster+Pro+Screenshot)
+![TaskMaster Pro Screenshot](task1.png)
+![TaskMaster Pro Screenshot](task2.png)
+![TaskMaster Pro Screenshot](task3.png)
 
 ## ✨ Features
 
@@ -226,9 +228,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
+Your Name - mk458557@gmail.com
 
-Project Link: [https://github.com/kingslayer458/taskmaster-pro](https://github.com/kingslayer458/taskmaster-pro)
+Project Link: [https://github.com/kingslayer458/taskmaster-pro](https://github.com/kingslayer458/TasktrackerPro)
 
 ## 🙏 Acknowledgements
 
