@@ -1,0 +1,38 @@
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(var(--priority-color), 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(var(--priority-color), 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(var(--priority-color), 0);
+  }
+}
+
+.priority-indicator {
+  position: relative;
+  animation: pulse 2s infinite;
+}
+
+/* All priority indicators use the same blue color as timeline markers */
+.priority-indicator {
+  --priority-color: 13, 110, 253; /* Bootstrap primary blue (#0d6efd) */
+}
+
+/* Different animation speeds based on priority */
+.priority-indicator[data-priority="urgent"] {
+  animation-duration: 1.5s;
+}
+
+.priority-indicator[data-priority="high"] {
+  animation-duration: 2s;
+}
+
+.priority-indicator[data-priority="medium"] {
+  animation-duration: 2.5s;
+}
+
+.priority-indicator[data-priority="low"] {
+  animation-duration: 3s;
+}
