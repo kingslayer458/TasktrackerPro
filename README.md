@@ -78,10 +78,7 @@ A modern, feature-rich full-stack application for efficient project and task man
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taskmaster-pro.git
-
-# Navigate to the project directory
-cd taskmaster-pro
+https://github.com/kingslayer458/TasktrackerPro.git
 ```
 
 ### Backend Setup
@@ -105,10 +102,6 @@ cd taskmaster-pro
    ```
 
 4. Start the backend server:
-   ```bash
-   npm start
-   ```
-   For development with auto-reload:
    ```bash
    npm run dev
    ```
@@ -202,21 +195,6 @@ cd taskmaster-pro
 - `PATCH /api/tasks/:id` - Update a task
 - `DELETE /api/tasks/:id` - Delete a task
 
-## 🧪 Testing
-
-### Backend Tests
-
-```bash
-cd backend
-npm test
-```
-
-### Frontend Tests
-
-```bash
-cd frontend
-npm test
-```
 
 ## 🤝 Contributing
 
@@ -238,12 +216,4 @@ Your Name - mk458557@gmail.com
 
 Project Link: [https://github.com/kingslayer458/taskmaster-pro](https://github.com/kingslayer458/TasktrackerPro)
 
-## 🙏 Acknowledgements
 
-- [React.js](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Express.js](https://expressjs.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Framer Motion](https://www.framer.com/motion/)
