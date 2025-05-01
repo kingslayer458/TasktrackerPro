@@ -9,7 +9,7 @@ A modern, feature-rich full-stack application for efficient project and task man
 
 > ⚙️ **Cloud Deployment Details**
 > - **Frontend**: Render  
-> - **Backend Server **: Render  
+> - **Backend Server**: Render  
 > - **Database (MongoDB)**: Railway app
 
 ![TaskMaster Pro Screenshot](task1.png)
