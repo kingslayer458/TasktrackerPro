@@ -25,7 +25,7 @@ A modern, feature-rich full-stack application for efficient project and task man
 ## ✨ Features
 
 ### 🔐 User Authentication & Authorization
-- Secure signup and login with JWT authentication
+- Secure signup and login with JWT authentication and check .env file 
 - Password encryption and secure storage
 - Protected routes for authenticated users
 - User profile management
@@ -38,7 +38,6 @@ A modern, feature-rich full-stack application for efficient project and task man
 
 ### ✅ Task Management
 - Create, read, update, and delete tasks within projects
-- Drag-and-drop task organization
 - Task status tracking (todo, in-progress, completed)
 - Task priority levels (low, medium, high, urgent)
 - Due date assignment and tracking
