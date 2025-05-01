@@ -4,6 +4,14 @@
 
 A modern, feature-rich full-stack application for efficient project and task management with a beautiful UI and smooth animations. TaskMaster Pro helps teams and individuals organize their work with an intuitive, responsive interface.
 
+
+📺 **Live Demo**: [https://taskmasterpro.onrender.com](https://tasktracker-for-railway-1.onrender.com/)
+
+> ⚙️ **Cloud Deployment Details**
+> - **Frontend**: Render  
+> - **Backend Server **: Render  
+> - **Database (MongoDB)**: Railway app
+
 ![TaskMaster Pro Screenshot](task1.png)
 ![TaskMaster Pro Screenshot](task7.png)
 ![TaskMaster Pro Screenshot](task2.png)
