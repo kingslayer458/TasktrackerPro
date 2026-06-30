@@ -7,54 +7,43 @@ A modern, feature-rich full-stack application for efficient project and task man
 
 📺 **Live Demo**: [https://taskmasterpro.onrender.com](https://tasktracker-for-railway-1.onrender.com/)
 
-> ⚙️ **Cloud Deployment Details**
+>  **Cloud Deployment Details**
 > - **Frontend**: Render  
 > - **Backend Server**: Render  
 > - **Database (MongoDB)**: Railway app
 ## Sreenshots
 ![TaskMaster Pro Screenshffot](images/task1.png)
-![TaskMaster Pro Screenshot](task7.png)
-![TaskMaster Pro Screenshot](task2.png)
-![TaskMaster Pro Screenshot](task3.png)
-![TaskMaster Pro Screenshot](task4.png)
-![TaskMaster Pro Screenshot](task5.png)
-![TaskMaster Pro Screenshot](task6.png)
-![mongodb_implementation](task8.png)
+![TaskMaster Pro Screenshot](images/task7.png)
+![TaskMaster Pro Screenshot](images/task2.png)
+![TaskMaster Pro Screenshot](images/task3.png)
+![TaskMaster Pro Screenshot](images/task4.png)
+![TaskMaster Pro Screenshot](images/task5.png)
+![TaskMaster Pro Screenshot](images/task6.png)
+![mongodb_implementation](images/task8.png)
 
 
 ## ✨ Features
 
-### 🔐 User Authentication & Authorization
+###  User Authentication & Authorization
 - Secure signup and login with JWT authentication and check .env file 
 - Password encryption and secure storage
 - Protected routes for authenticated users
 - User profile management
 
-### 📊 Project Management
+###  Project Management
 - Create, read, update, and delete projects
 - Project details with description and creation date
 - Project statistics and progress tracking
 - Export project data to CSV
 
-### ✅ Task Management
+###  Task Management
 - Create, read, update, and delete tasks within projects
 - Task status tracking (todo, in-progress, completed)
 - Task priority levels (low, medium, high, urgent)
 - Due date assignment and tracking
 
-### 🎨 Modern UI/UX
-- Responsive design for all devices
-- Dark/light mode toggle
-- Smooth animations and transitions
-- Interactive dashboard with project statistics
-- Real-time notifications
 
-### 🔍 Search & Filter
-- Advanced search functionality for tasks
-- Filter tasks by status, priority, and due date
-- Sort projects and tasks by various criteria
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Node.js** - JavaScript runtime
@@ -72,7 +61,7 @@ A modern, feature-rich full-stack application for efficient project and task man
 - **Axios** - HTTP client
 - **Context API** - State management
 
-## 🚀 Setup and Installation Guide
+## Setup and Installation Guide
 
 ### Prerequisites
 
@@ -132,54 +121,7 @@ https://github.com/kingslayer458/TasktrackerPro.git
 
 4. The application will open in your default browser at `http://localhost:3000`
 
-## 📱 Usage Guide
-
-### Registration and Login
-
-1. Navigate to the registration page by clicking "Register" in the navigation bar
-2. Fill in your details and create an account
-3. Log in with your credentials
-
-### Creating a Project
-
-1. From the dashboard, click "Add Project"
-2. Fill in the project title and description
-3. Click "Create Project"
-
-### Managing Tasks
-
-1. Click on a project to view its details
-2. Click "Add Task" to create a new task
-3. Fill in the task details including title, description, status, priority, and due date
-4. Use the task controls to change status, edit, or delete tasks
-
-### Editing Projects and Tasks
-
-1. For projects:
-   - Click the "Edit Project" button on the project details page
-   - Or use the edit icon on the dashboard project cards
-   - Update the project details and save
-
-2. For tasks:
-   - Click the edit icon on any task card
-   - Update the task details and save
-
-### Searching Tasks
-
-1. Navigate to the Search page from the navigation bar
-2. Enter your search query
-3. View and interact with the search results
-
-### Exporting Data
-
-1. From the project details page, click "Export Tasks"
-2. A CSV file will be downloaded with all task data
-
-### Theme Toggle
-
-1. Click the theme toggle button in the navigation bar to switch between light and dark modes
-
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - Register a new user
