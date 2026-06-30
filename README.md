@@ -12,7 +12,7 @@ A modern, feature-rich full-stack application for efficient project and task man
 > - **Backend Server**: Render  
 > - **Database (MongoDB)**: Railway app
 ## Sreenshots
-![TaskMaster Pro Screenshffot](task1.png)
+![TaskMaster Pro Screenshffot](images/task1.png)
 ![TaskMaster Pro Screenshot](task7.png)
 ![TaskMaster Pro Screenshot](task2.png)
 ![TaskMaster Pro Screenshot](task3.png)
